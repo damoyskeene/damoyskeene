@@ -3,7 +3,7 @@
 <h1 align="center">Thank you for visiting.</h1>
 
 <p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=damoyskeene&hide_border=true&show_icons=true" alt="Damoy's github stats"></a>
+  <a href="https://github.com/damoyskeene"><img src="https://github-readme-stats.vercel.app/api?username=damoyskeene&hide_border=true&show_icons=true" alt="Damoy's github stats"></a>
 </p>
 
 <p align="center">
